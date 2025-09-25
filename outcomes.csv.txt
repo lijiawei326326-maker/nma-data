@@ -1,0 +1,194 @@
+study_id,end_time_wk,outcome_domain,scale,direction,metric,is_converted,conversion_method,arm_id,mean,sd,n,events,total,notes
+linlinan_2024,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,12.61,2.67,70,,,baseline 20.37±2.19
+linlinan_2024,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,12.13,2.88,70,,,baseline 20.74±3.10
+linlinan_2024,12,anxiety,HAMA,lower_better,endpoint,No,NA,A,5.97,2.29,70,,,baseline 24.96±7.04
+linlinan_2024,12,anxiety,HAMA,lower_better,endpoint,No,NA,B,5.36,2.01,70,,,baseline 23.39±6.11
+linlinan_2024,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,8.77,4.65,70,,,baseline 12.64±5.70
+linlinan_2024,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,7.64,3.81,70,,,baseline 11.57±5.06
+linlinan_2024,12,cognition,MMSE,higher_better,endpoint,No,NA,A,22.67,4.18,70,,,baseline 18.10±6.49
+linlinan_2024,12,cognition,MMSE,higher_better,endpoint,No,NA,B,23.10,3.73,70,,,baseline 17.10±4.25
+linlinan_2024,12,sleep,ISI,lower_better,endpoint,No,NA,A,10.29,4.66,70,,,baseline 13.26±4.72
+linlinan_2024,12,sleep,ISI,lower_better,endpoint,No,NA,B,8.59,4.46,70,,,baseline 13.90±4.93
+linlinan_2024,12,sleep,ESS,lower_better,endpoint,No,NA,A,4.06,2.00,70,,,baseline 6.30±2.34
+linlinan_2024,12,sleep,ESS,lower_better,endpoint,No,NA,B,3.19,1.92,70,,,baseline 6.41±2.39
+linlinan_2024,12,fatigue,FSS,lower_better,endpoint,No,NA,A,28.81,11.14,70,,,baseline 33.89±10.74
+linlinan_2024,12,fatigue,FSS,lower_better,endpoint,No,NA,B,23.71,13.92,70,,,baseline 33.81±14.73
+wiart_2000,6,depression,MADRS,lower_better,endpoint,No,NA,A,18.70,10.00,15,,,baseline 27.20±6.30
+wiart_2000,6,depression,MADRS,lower_better,endpoint,No,NA,B,11.80,6.70,16,,,baseline 28.50±7.70
+wiart_2000,6,depression,MADRS_response50,higher_better,binary,No,NA,A,,,15,5,15,≥50% reduction
+wiart_2000,6,depression,MADRS_response50,higher_better,binary,No,NA,B,,,16,10,16,≥50% reduction
+wiart_2000,6,cognition,MMSE,higher_better,endpoint,No,NA,A,26.20,3.00,15,,,baseline 24.10±2.90
+wiart_2000,6,cognition,MMSE,higher_better,endpoint,No,NA,B,24.80,3.90,16,,,baseline 23.50±3.50
+wiart_2000,6,function,FIM,higher_better,endpoint,No,NA,A,88.70,25.30,15,,,baseline 72.30±20.90
+wiart_2000,6,function,FIM,higher_better,endpoint,No,NA,B,87.40,22.80,16,,,baseline 62.70±17.60
+kimjs_2017_emotion,12,depression,MADRS_ge16,lower_better,binary,No,NA,A,, ,195,25,195,Primary endpoint: MADRS≥16 at 3m
+kimjs_2017_emotion,12,depression,MADRS_ge16,lower_better,binary,No,NA,B,, ,210,27,210,
+kimjs_2017_emotion,12,depression,MADRS_lt8,higher_better,binary,No,NA,A,, ,195,117,195,Post-hoc MADRS<8
+kimjs_2017_emotion,12,depression,MADRS_lt8,higher_better,binary,No,NA,B,, ,210,148,210,
+kimjs_2017_emotion,12,cognition,MoCA,higher_better,endpoint,No,NA,A,21.60,6.50,195,,,"baseline 19.30±6.70"
+kimjs_2017_emotion,12,cognition,MoCA,higher_better,endpoint,No,NA,B,20.50,7.40,210,,,"baseline 18.00±7.10"
+kimjs_2017_emotion,12,function,BI,higher_better,endpoint,No,NA,A,84.60,23.00,195,,,"baseline 65.00±26.90"
+kimjs_2017_emotion,12,function,BI,higher_better,endpoint,No,NA,B,82.60,26.40,210,,,"baseline 62.70±30.50"
+kimjs_2017_emotion,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,2.50,2.30,195,,,"baseline 4.60±2.80"
+kimjs_2017_emotion,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,2.60,2.90,210,,,"baseline 4.90±3.00"
+robinson_2000,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,9.00,5.50,13,,,抑郁完成者；baseline见文
+robinson_2000,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,18.50,7.60,14,,,抑郁完成者
+robinson_2000,12,depression,HAMD-17,lower_better,endpoint,No,NA,C,12.20,4.70,13,,,抑郁完成者
+robinson_2000,12,anxiety,HAMA,lower_better,endpoint,No,NA,A,6.00,4.20,13,,,baseline 8.9±4.7
+robinson_2000,12,anxiety,HAMA,lower_better,endpoint,No,NA,B,9.80,4.80,14,,,baseline 6.5±4.0
+robinson_2000,12,anxiety,HAMA,lower_better,endpoint,No,NA,C,9.90,5.10,13,,,baseline 10.1±3.7
+robinson_2000,12,function,FIM,higher_better,endpoint,No,NA,A,60.50,12.20,13,,,baseline 52.0±16.8
+robinson_2000,12,function,FIM,higher_better,endpoint,No,NA,B,59.20,11.60,14,,,baseline 58.3±13.1
+robinson_2000,12,function,FIM,higher_better,endpoint,No,NA,C,56.20,7.80,13,,,baseline 48.9±6.7
+kimura_2000,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,5.33,6.24,17,,,等效“100 mg阶段”；见表3
+kimura_2000,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,11.08,7.81,25,,,
+kimura_2000,12,cognition,MMSE,higher_better,endpoint,No,NA,A,26.47,1.14,17,,,baseline 23.62±1.24
+kimura_2000,12,cognition,MMSE,higher_better,endpoint,No,NA,B,25.44,1.14,25,,,baseline 24.39±1.02
+liji_2017,24,depression,HAMD-17,lower_better,endpoint,No,NA,A,20.34,1.83,62,,,baseline 21.62±1.41
+liji_2017,24,depression,HAMD-17,lower_better,endpoint,No,NA,B,8.46,1.46,64,,,baseline 21.83±1.46
+liji_2017,24,cognition,MMSE,higher_better,endpoint,No,NA,A,12.50,3.14,62,,,baseline 12.35±3.15
+liji_2017,24,cognition,MMSE,higher_better,endpoint,No,NA,B,23.83,3.14,64,,,baseline 12.48±3.16
+liji_2017,24,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,15.48,1.43,62,,,baseline 15.38±1.29
+liji_2017,24,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,5.70,2.09,64,,,baseline 15.40±1.24
+liji_2017,24,function,FIM,higher_better,endpoint,No,NA,A,56.34,2.44,62,,,baseline 55.80±2.51
+liji_2017,24,function,FIM,higher_better,endpoint,No,NA,B,92.51,5.37,64,,,baseline 56.20±2.31
+chenxiaodong_2020,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,15.80,4.20,42,,,baseline 27.10±5.20
+chenxiaodong_2020,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,11.80,3.40,42,,,baseline 27.20±5.70
+chenxiaodong_2020,12,anxiety,HAMA,lower_better,endpoint,No,NA,A,16.20,3.80,42,,,baseline 25.40±5.60
+chenxiaodong_2020,12,anxiety,HAMA,lower_better,endpoint,No,NA,B,12.10,3.70,42,,,baseline 25.50±5.40
+chenxiaodong_2020,12,cognition,MMSE,higher_better,endpoint,No,NA,A,19.90,3.48,42,,,baseline 16.80±5.01
+chenxiaodong_2020,12,cognition,MMSE,higher_better,endpoint,No,NA,B,23.70,4.03,42,,,baseline 17.20±4.28
+chenxiaodong_2020,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,15.47,1.95,42,,,baseline 15.52±2.09
+chenxiaodong_2020,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,7.51,1.70,42,,,baseline 15.50±2.04
+zhangjuan_2020,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,19.74,1.88,43,,,baseline 21.73±1.44
+zhangjuan_2020,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,8.59,1.51,44,,,baseline 21.81±1.35
+zhangjuan_2020,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,20.42,1.79,43,,,baseline 21.72±1.43
+zhangjuan_2020,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,8.52,1.39,44,,,baseline 21.65±1.44
+zhangjuan_2020,12,cognition,MMSE,higher_better,endpoint,No,NA,A,12.63,3.01,43,,,baseline 12.39±3.23
+zhangjuan_2020,12,cognition,MMSE,higher_better,endpoint,No,NA,B,23.91,3.07,44,,,baseline 12.42±3.05
+xuanxuejun_2019,6,depression,HAMD-17,lower_better,endpoint,No,NA,A,15.11,2.17,33,,,baseline 22.79±4.16
+xuanxuejun_2019,6,depression,HAMD-17,lower_better,endpoint,No,NA,B,9.54,2.13,32,,,baseline 22.13±4.25
+xuanxuejun_2019,6,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,15.16,6.77,33,,,baseline 23.95±3.99
+xuanxuejun_2019,6,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,9.13,3.15,32,,,baseline 24.02±4.01
+xuanxuejun_2019,6,cognition,MMSE,higher_better,endpoint,No,NA,A,24.37,5.45,33,,,baseline 20.01±6.01
+xuanxuejun_2019,6,cognition,MMSE,higher_better,endpoint,No,NA,B,29.33,6.51,32,,,baseline 19.79±6.66
+xuanxuejun_2019,6,function,BI,higher_better,endpoint,No,NA,A,76.01,14.26,33,,,baseline 27.34±8.02
+xuanxuejun_2019,6,function,BI,higher_better,endpoint,No,NA,B,85.36,15.46,32,,,baseline 27.65±7.35
+lvxinli_2015,8,depression,HAMD-17,lower_better,endpoint,No,NA,A,14.98,4.92,43,,,baseline 20.12±3.98
+lvxinli_2015,8,depression,HAMD-17,lower_better,endpoint,No,NA,B,9.45,3.32,44,,,baseline 20.48±3.48
+lvxinli_2015,8,cognition,MMSE,higher_better,endpoint,No,NA,A,14.98,4.92,43,,,baseline 21.42±3.52
+lvxinli_2015,8,cognition,MMSE,higher_better,endpoint,No,NA,B,28.01,3.10,44,,,baseline 20.48±3.48
+lvxinli_2015,8,function,BI,higher_better,endpoint,No,NA,A,65.80,5.40,43,,,baseline 61.90±5.30
+lvxinli_2015,8,function,BI,higher_better,endpoint,No,NA,B,72.30,6.20,44,,,baseline 62.10±5.60
+fengyuhua_2016,8,depression,HAMD-17,lower_better,endpoint,No,NA,A,10.65,4.95,57,,,baseline ≈24.32±5.23
+fengyuhua_2016,8,depression,HAMD-17,lower_better,endpoint,No,NA,B,8.10,4.89,58,,,baseline ≈24.31±5.22
+fengyuhua_2016,8,cognition,MMSE,higher_better,endpoint,No,NA,A,20.18,3.76,57,,,baseline 18.28±3.55
+fengyuhua_2016,8,cognition,MMSE,higher_better,endpoint,No,NA,B,24.71,3.78,58,,,baseline 18.26±3.57
+shiyaomei_2016,8,depression,HAMD-17,lower_better,endpoint,No,NA,A,10.68,5.02,52,,,baseline 24.28±5.22
+shiyaomei_2016,8,depression,HAMD-17,lower_better,endpoint,No,NA,B,8.10,4.94,53,,,baseline 24.30±5.21
+shiyaomei_2016,8,cognition,MMSE,higher_better,endpoint,No,NA,A,20.17,3.77,52,,,baseline 18.26±3.62
+shiyaomei_2016,8,cognition,MMSE,higher_better,endpoint,No,NA,B,24.71,3.80,53,,,baseline 18.27±3.61
+shanruoying_2014,8,depression,HAMD-17,lower_better,endpoint,No,NA,A,10.67,5.03,52,,,baseline 24.29±5.21
+shanruoying_2014,8,depression,HAMD-17,lower_better,endpoint,No,NA,B,8.09,4.89,53,,,baseline 24.31±5.20
+shanruoying_2014,8,cognition,MMSE,higher_better,endpoint,No,NA,A,20.15,3.81,52,,,baseline 18.23±3.60
+shanruoying_2014,8,cognition,MMSE,higher_better,endpoint,No,NA,B,24.69,3.82,53,,,baseline 18.25±3.61
+gaoguoxiang_2014,8,anxiety,HAMA,lower_better,endpoint,No,NA,A,8.34,1.36,75,,,baseline 15.68±8.62
+gaoguoxiang_2014,8,anxiety,HAMA,lower_better,endpoint,No,NA,B,5.44,1.23,75,,,baseline 15.43±8.31
+gaoguoxiang_2014,8,depression,HAMD-24,lower_better,endpoint,No,NA,A,11.35,4.02,75,,,baseline 22.64±9.02
+gaoguoxiang_2014,8,depression,HAMD-24,lower_better,endpoint,No,NA,B,9.53,3.41,75,,,baseline 22.15±8.56
+gaoguoxiang_2014,8,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,8.61,2.46,75,,,baseline 14.26±3.51
+gaoguoxiang_2014,8,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,7.65,2.18,75,,,baseline 14.53±3.54
+gaoguoxiang_2014,8,function,BI,higher_better,endpoint,No,NA,A,45.66,9.56,75,,,baseline 27.34±8.02
+gaoguoxiang_2014,8,function,BI,higher_better,endpoint,No,NA,B,55.85,10.45,75,,,baseline 27.65±7.35
+lixue_2010,24,depression,HAMD-17,lower_better,endpoint,No,NA,A,17.63,0.19,62,,,baseline 26.67±0.24; SD suspiciously small
+lixue_2010,24,depression,HAMD-17,lower_better,endpoint,No,NA,B,9.53,0.14,68,,,baseline 26.54±0.72; SD suspiciously small
+lixue_2010,24,cognition,MMSE,higher_better,endpoint,No,NA,A,23.56,2.48,62,,,baseline 18.39±4.42
+lixue_2010,24,cognition,MMSE,higher_better,endpoint,No,NA,B,27.52,3.55,68,,,baseline 17.92±3.58
+lixue_2010,24,neuro_deficit,MESSS,lower_better,endpoint,No,NA,A,17.33,3.60,62,,,baseline 25.57±4.24
+lixue_2010,24,neuro_deficit,MESSS,lower_better,endpoint,No,NA,B,8.63,2.69,68,,,baseline 24.54±3.46
+lixue_2010,24,function,MBI,higher_better,endpoint,No,NA,A,66.20,5.63,62,,,baseline 47.32±6.98
+lixue_2010,24,function,MBI,higher_better,endpoint,No,NA,B,83.17,8.60,68,,,baseline 48.32±7.47
+liwenqian_2006,12,cognition,MMSE,higher_better,endpoint,No,NA,A,24.32,2.14,49,,,baseline 22.13±1.81
+liwenqian_2006,12,cognition,MMSE,higher_better,endpoint,No,NA,B,28.36,2.57,50,,,baseline 22.51±1.49
+liwenqian_2006,12,depression,HRSD,lower_better,endpoint,No,NA,A,20.26,6.08,49,,,baseline 29.46±7.27
+liwenqian_2006,12,depression,HRSD,lower_better,endpoint,No,NA,B,5.61,5.32,50,,,baseline 29.52±7.32
+liwenqian_2006,12,function,BI,higher_better,endpoint,No,NA,A,59.17,9.02,49,,,baseline 35.27±6.69
+liwenqian_2006,12,function,BI,higher_better,endpoint,No,NA,B,64.36,8.23,50,,,baseline 35.16±6.75
+liwenqian_2006,12,neuro_deficit,CSS,lower_better,endpoint,No,NA,A,23.77,1.46,49,,,baseline 28.11±1.91
+liwenqian_2006,12,neuro_deficit,CSS,lower_better,endpoint,No,NA,B,21.89,1.57,50,,,baseline 28.07±1.83
+cravello_2009,8,depression,HAMD-17,lower_better,endpoint,No,NA,A,9.00,4.20,25,,,digitized_from_figure (WPD); errorbar=SE→SD via SD=SE*sqrt(n); ANOVA: 两组改善相当
+cravello_2009,8,depression,HAMD-17,lower_better,endpoint,No,NA,B,10.50,4.50,25,,,digitized_from_figure (WPD); errorbar=SE→SD; time effect p<0.001、no time×treat
+cravello_2009,8,alexithymia,TAS-20,lower_better,endpoint,No,NA,A,46.00,8.00,25,,,digitized_from_figure (WPD); venlafaxine改善更大; time×treat p=0.011
+cravello_2009,8,alexithymia,TAS-20,lower_better,endpoint,No,NA,B,51.00,9.00,25,,,digitized_from_figure (WPD); fluoxetine改善较小
+yanhu_2024,8,cognition,MoCA,higher_better,endpoint,Yes,Luo2018;Wan2014,A,22.92,5.37,30,,,orig median(IQR)=20.5(15.6–24.0)→24.0(18.75–26.0)
+yanhu_2024,8,cognition,MoCA,higher_better,endpoint,Yes,Luo2018;Wan2014,B,21.58,6.48,30,,,orig median(IQR)=18.5(14.3–23.3)→21.5(17.25–26.0)
+yanhu_2024,8,depression,HAMD-24,lower_better,endpoint,No,NA,A,7.96,3.83,30,,,
+yanhu_2024,8,depression,HAMD-24,lower_better,endpoint,No,NA,B,6.57,4.26,30,,,
+yanhu_2024,8,function,ADL,lower_better,endpoint,Yes,Luo2018;Wan2014,A,16.33,2.22,30,,,orig median(IQR)=19.0(18.0–22.0)→16.0(15.0–18.0); 该ADL量表分数越低功能越好（与MBI/Barthel相反）
+yanhu_2024,8,function,ADL,lower_better,endpoint,Yes,Luo2018;Wan2014,B,16.33,2.59,30,,,orig median(IQR)=19.5(18.0–21.25)→16.0(14.75–18.25); 该ADL量表分数越低功能越好（与MBI/Barthel相反）
+song_2006_p300,6,bio_marker,P300_P3_latency,lower_better,endpoint,No,NA,A,348.60,25.50,41,,,baseline 357.60±25.90
+song_2006_p300,6,bio_marker,P300_P3_latency,lower_better,endpoint,No,NA,B,339.10,25.30,41,,,baseline 359.30±26.20
+song_2006_p300,6,bio_marker,P300_P3_amplitude,higher_better,endpoint,No,NA,A,4.90,2.00,41,,,baseline 3.80±1.80
+song_2006_p300,6,bio_marker,P300_P3_amplitude,higher_better,endpoint,No,NA,B,6.30,1.90,41,,,baseline 3.90±1.70
+zhanglijun_2020,6,depression,HAMD-17,lower_better,endpoint,No,NA,A,9.28,3.66,75,,,baseline 26.79±7.32
+zhanglijun_2020,6,depression,HAMD-17,lower_better,endpoint,No,NA,B,5.05,2.25,75,,,baseline 26.63±7.55
+zhanglijun_2020,6,cognition,MMSE,higher_better,endpoint,No,NA,A,24.97,6.20,75,,,baseline 20.17±6.02
+zhanglijun_2020,6,cognition,MMSE,higher_better,endpoint,No,NA,B,29.15,6.81,75,,,baseline 20.08±5.95
+zhanglijun_2020,6,function,BI,higher_better,endpoint,No,NA,A,75.01,12.05,75,,,baseline 48.02±7.90
+zhanglijun_2020,6,function,BI,higher_better,endpoint,No,NA,B,86.33,11.48,75,,,baseline 47.79±7.71
+zhanglijun_2020,6,safety,AE_nausea,lower_better,binary,No,NA,A,,,75,3,75,对照 恶心/呕吐
+zhanglijun_2020,6,safety,AE_dizziness,lower_better,binary,No,NA,A,,,75,0,75,对照 头晕
+zhanglijun_2020,6,safety,AE_dry_mouth,lower_better,binary,No,NA,A,,,75,1,75,对照 口干
+zhanglijun_2020,6,safety,AE_nausea,lower_better,binary,No,NA,B,,,75,2,75,研究组 恶心/呕吐
+zhanglijun_2020,6,safety,AE_dizziness,lower_better,binary,No,NA,B,,,75,1,75,研究组 头晕
+zhanglijun_2020,6,safety,AE_dry_mouth,lower_better,binary,No,NA,B,,,75,2,75,研究组 口干
+meijing_2017,6,depression,HAMD-17,lower_better,endpoint,No,NA,A,9.34,1.13,44,,,baseline 22.03±4.15
+meijing_2017,6,depression,HAMD-17,lower_better,endpoint,No,NA,B,15.78,2.27,44,,,baseline 21.69±4.26
+meijing_2017,6,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,9.03,3.24,44,,,baseline 23.01±4.15
+meijing_2017,6,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,14.81,3.69,44,,,baseline 22.94±4.02
+meijing_2017,6,cognition,MMSE,higher_better,endpoint,No,NA,A,28.97,6.66,44,,,baseline 20.15±6.04
+meijing_2017,6,cognition,MMSE,higher_better,endpoint,No,NA,B,25.02,6.17,44,,,baseline 20.27±5.94
+meijing_2017,6,function,Barthel,higher_better,endpoint,No,NA,A,86.12,18.54,44,,,baseline 47.82±7.69
+meijing_2017,6,function,Barthel,higher_better,endpoint,No,NA,B,75.03,16.99,44,,,baseline 48.64±8.12
+meijing_2017,6,safety,AE_any,lower_better,binary,No,NA,A,,,"",3,44,"头痛1、口干2；轻微，可耐受"
+meijing_2017,6,safety,AE_any,lower_better,binary,No,NA,B,,,"",0,44,"对照无AE"
+liuling_2022,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,13.36,2.15,35,,,baseline 21.41±1.26
+liuling_2022,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,18.62,2.11,35,,,baseline 21.63±1.24
+liuling_2022,12,cognition,MMSE,higher_better,endpoint,No,NA,A,22.74,2.11,35,,,baseline 14.12±3.52
+liuling_2022,12,cognition,MMSE,higher_better,endpoint,No,NA,B,18.11,3.52,35,,,baseline 14.63±3.22
+liuling_2022,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,10.54,3.02,35,,,baseline 20.36±4.43
+liuling_2022,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,15.71,4.32,35,,,baseline 19.21±4.32
+liuling_2022,12,quality_of_life,SF-36_role,higher_better,endpoint,No,NA,A,92.54,3.02,35,,,
+liuling_2022,12,quality_of_life,SF-36_social,higher_better,endpoint,No,NA,A,93.81,5.02,35,,,
+liuling_2022,12,quality_of_life,SF-36_body,higher_better,endpoint,No,NA,A,89.68,5.24,35,,,
+liuling_2022,12,quality_of_life,SF-36_cognition,higher_better,endpoint,No,NA,A,92.63,4.47,35,,,
+liuling_2022,12,quality_of_life,SF-36_role,higher_better,endpoint,No,NA,B,81.71,5.32,35,,,
+liuling_2022,12,quality_of_life,SF-36_social,higher_better,endpoint,No,NA,B,83.42,7.27,35,,,
+liuling_2022,12,quality_of_life,SF-36_body,higher_better,endpoint,No,NA,B,78.12,6.92,35,,,
+liuling_2022,12,quality_of_life,SF-36_cognition,higher_better,endpoint,No,NA,B,88.63,5.63,35,,,
+liuling_2022,12,safety,AE_any,lower_better,binary,No,NA,A,,,"",5,35,"失眠1/恶心呕吐1/口干1/便秘2"
+liuling_2022,12,safety,AE_any,lower_better,binary,No,NA,B,,,"",9,35,"失眠1/恶心呕吐2/口干1/便秘5"
+huhuiting_2018,12,depression,HAMD-17,lower_better,endpoint,No,NA,A,10.41,2.04,41,,,baseline 21.59±2.74
+huhuiting_2018,12,depression,HAMD-17,lower_better,endpoint,No,NA,B,19.72,2.45,41,,,baseline 21.42±2.68
+huhuiting_2018,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,7.51,1.70,41,,,baseline 15.50±2.04
+huhuiting_2018,12,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,15.47,1.95,41,,,baseline 15.52±2.09
+huhuiting_2018,12,cognition,MMSE,higher_better,endpoint,No,NA,A,21.36,2.11,41,,,baseline 12.58±1.84
+huhuiting_2018,12,cognition,MMSE,higher_better,endpoint,No,NA,B,12.75,1.91,41,,,baseline 12.45±1.86
+huhuiting_2018,12,function,FIM,higher_better,endpoint,No,NA,A,88.48,6.04,41,,,baseline 57.10±4.15
+huhuiting_2018,12,function,FIM,higher_better,endpoint,No,NA,B,58.20,4.18,41,,,baseline 57.64±4.09
+liji_2016,24,depression,HAMD-17,lower_better,endpoint,No,NA,A,10.98,1.479,60,,,baseline 21.03±1.461; 4周17.03±1.495
+liji_2016,24,depression,HAMD-17,lower_better,endpoint,No,NA,B,15.37,1.438,60,,,baseline 21.02±1.408; 4周19.00±1.390
+liji_2016,24,cognition,MMSE,higher_better,endpoint,No,NA,A,22.63,3.141,60,,,baseline 12.58±3.169; 4周12.63±3.151
+liji_2016,24,cognition,MMSE,higher_better,endpoint,No,NA,B,12.58,3.153,60,,,baseline 12.53±3.143; 4周12.52±3.176
+liji_2016,24,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,A,5.90,2.807,60,,,baseline 15.50±1.255; 4周15.47±1.268
+liji_2016,24,neuro_deficit,NIHSS,lower_better,endpoint,No,NA,B,15.42,1.555,60,,,baseline 15.48±1.294; 4周15.38±1.530
+liji_2016,24,function,FIM,higher_better,endpoint,No,NA,A,91.72,5.185,60,,,baseline 55.40±2.612; 4周55.45±2.626
+liji_2016,24,function,FIM,higher_better,endpoint,No,NA,B,55.23,2.445,60,,,baseline 55.40±2.579; 4周55.42±2.670
+lixiaoying_2016,24,depression,HAMD-17,lower_better,endpoint,No,NA,A,14.10,6.50,58,,,baseline 27.30±7.60; 1m 26.2±5.6; 3m 19.4±7.5
+lixiaoying_2016,24,depression,HAMD-17,lower_better,endpoint,No,NA,B,24.20,8.10,58,,,baseline 25.80±7.20; 1m 25.3±6.8; 3m 24.2±8.1
+lixiaoying_2016,24,cognition,MMSE,higher_better,endpoint,No,NA,A,24.18,5.23,58,,,baseline 15.69±4.87; 1m 18.92±5.14; 3m 21.86±4.98
+lixiaoying_2016,24,cognition,MMSE,higher_better,endpoint,No,NA,B,19.67,6.76,58,,,baseline 15.16±5.16; 1m 15.98±5.54; 3m 17.86±6.25
+lixiaoying_2016,24,function,MBI,higher_better,endpoint,No,NA,A,76.67,21.33,58,,,baseline 35.14±11.24; 1m 49.89±15.31; 3m 64.25±18.57
+lixiaoying_2016,24,function,MBI,higher_better,endpoint,No,NA,B,49.86,14.89,58,,,baseline 36.28±10.55; 1m 41.13±11.67; 3m 46.57±12.32
+lixiaoying_2016,24,function,FMA,higher_better,endpoint,No,NA,A,87.38,16.18,58,,,baseline 71.13±7.12; 1m 77.65±10.65; 3m 83.12±13.98
+lixiaoying_2016,24,function,FMA,higher_better,endpoint,No,NA,B,83.21,7.38,58,,,baseline 69.08±6.14; 1m 72.73±6.65; 3m 78.24±7.12

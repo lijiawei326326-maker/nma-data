@@ -1,0 +1,26 @@
+study_id,citation,country,design,registration_id,stroke_type,sample_size_total,followup_window_main_wk,include_in_review,include_in_primary_nma,reason_exclude_primary,notes
+linlinan_2024,林莉楠 2024,China,RCT open-label,NA,ischemic,146,12,Yes,Yes,,随机146各73，脱落各3；分析各70；证型“肝郁脾虚”
+wiart_2000,Wiart 2000,France,Multicentre RCT double-blind placebo,NA,mixed,31,6,Yes,Yes,,Fluoxetine 20 mg/d vs placebo; ITT按最后随访至45天
+kimjs_2017_emotion,Kim JS 2017 EMOTION,Korea,Multicentre RCT double-blind placebo,NCT01278498,mixed,478,12,Yes,Yes,,FAS:210/195；主要结局MADRS≥16（二分类）
+robinson_2000,Robinson 2000,USA/Argentina,Multicentre RCT double-blind placebo,NA,mixed,104,12,Yes,Yes,,三臂：nortriptyline/fluoxetine/placebo；仅纳入抑郁队列结局用于主分析（非抑郁结局已排除）
+kimura_2000,Kimura 2000,USA,Double-blind RCT placebo,NA,mixed,47,12,Yes,Yes,,Nortriptyline vs placebo；实际完成人数42/47，合并两中心等效剂量时间点分析
+liji_2017,李继 2017,China,RCT,NA,mixed,126,24,Yes,Yes,,PSD合并认知障碍；Escitalopram 10 mg/d vs placebo；末次24周
+chenxiaodong_2020,陈晓东 2020,China,RCT,NA,mixed,84,12,Yes,Yes,,Escitalopram 10 mg/d vs placebo；末次12周；常规治疗背景
+zhangjuan_2020,张娟 2020,China,RCT,NA,mixed,87,12,Yes,Yes,,Escitalopram 10 mg/d vs placebo；末次12周；常规治疗背景
+xuanxuejun_2019,宣学军 2019,China,RCT,NA,NR,65,6,Yes,Yes,,SSRI(氟伏沙明) + standard care vs standard care；末次6周
+lvxinli_2015,吕新立 2015,China,RCT,NA,NR,87,8,Yes,Yes,,Fluoxetine 20 mg/d + standard care vs standard care；末次8周
+fengyuhua_2016,冯玉花 2016,China,RCT active-comparator,NA,NR,115,8,Yes,Yes,,Paroxetine vs Sertraline；末次8周；剂量递增
+shiyaomei_2016,师耀美 2016,China,RCT active-comparator,NA,NR,105,8,Yes,Yes,,Sertraline vs Paroxetine；末次8周；逐周加量
+shanruoying_2014,单若莹 2014,China,RCT active-comparator,NA,NR,105,8,Yes,Yes,,Sertraline vs Paroxetine；末次8周；逐周加量
+gaoguoxiang_2014,高国祥 2014,China,RCT,NA,mixed,150,8,Yes,Yes,,Sertraline 50 mg/d + standard care vs standard care；末次8周；入院7天后起始
+lixue_2010,李学 2010,China,RCT,NA,mixed,130,24,Yes,Yes,,Paroxetine 20 mg/d + standard care vs standard care；评估3/6月；末次24周；HAMD SD极小，敏感性分析关注
+liwenqian_2006,李文迁 2006,China,RCT,NA,mixed,105,12,Yes,Yes,,Citalopram 20 mg/d + standard care vs standard care；实际完成人数99/105
+cravello_2009,Cravello 2009,Italy,RCT open-label,NA,NR,50,8,Yes,Yes,,Venlafaxine (SNRI) vs Fluoxetine (SSRI); outcome focus: TAS-20 alexithymia；图估末次，敏感性分析
+yanhu_2024,Ning Yan & Shaohua Hu 2024,China,RCT double-blind,NA,ischemic,60,8,Yes,Yes,,Escitalopram vs Sertraline；部分结局中位数→均值（Luo/Wan），已标注
+song_2006_p300,Song 2006,China,RCT,NA,NR,82,6,Yes,No,only_P300,仅电生理P300（潜伏期/振幅），无临床认知/抑郁量表
+meijing_2017,梅静 2017,China,RCT,NA,unspecified,88,6,Yes,Yes,"SSRI+常规治疗 vs 常规治疗；帕罗西汀20 mg/d，疗程6周；报告HAMD、NIHSS、MMSE、BI；AE轻微头痛1、口干2，对照0"
+liuling_2022,刘玲 2022,China,RCT,NA,ischemic,70,12,Yes,Yes,"急性缺血性卒中PSD；曲唑酮对照 vs 文拉法辛（75–150 mg/d）；疗程3个月；HAMD、MMSE、NIHSS、SF-36、AE"
+huhuiting_2018,胡会婷 2018,China,RCT placebo-controlled,NA,mixed,82,12,Yes,Yes,"常规+艾司西酞普兰10 mg/d vs 常规+安慰剂；12周；HAMD、NIHSS、MMSE、FIM"
+liji_2016,李继 2016（硕士论文）,China,RCT,NA,mixed,120,24,Yes,Yes,"常规/康复+艾司西酞普兰10 mg/d vs 常规/康复+疏肝解郁胶囊2粒bid；随访4与24周；结局HAMD、MMSE、NIHSS、FIM；主分析取24周"
+lixiaoying_2016,李小莹 2016,China,RCT,NA,mixed,116,24,Yes,Yes,"发病后即刻早期抗抑郁：艾司西酞普兰5→10 mg/d×6个月 vs 常规不加抗抑郁；评估1/3/6月；结局HAMD、MMSE、MBI、FMA、SF-36；主分析取6月"
+zhanglijun_2020,张丽君 2020,China,RCT,NA,mixed,150,6,Yes,Yes,,"Escitalopram 10 mg/d vs placebo（或标准对照）；末次6周；已录HAMD/MMSE/BI与AE"

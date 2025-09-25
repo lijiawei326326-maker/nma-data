@@ -1,0 +1,52 @@
+study_id,arm_id,treatment,node,class,dose_mg_per_d,titration,duration_wk,end_time_wk,n_randomized,n_analyzed,co_interventions
+linlinan_2024,A,escitalopram,escitalopram,SSRI,10,No,12,12,73,70,standard care; 禁用其他抗抑郁/安眠/中成药等
+linlinan_2024,B,shugan_jieyu,shugan_jieyu,TCM,"0.36g×2 cap bid",NA,12,12,73,70,standard care
+wiart_2000,A,placebo,placebo,placebo,,NA,6,6,15,15,standard rehabilitation care
+wiart_2000,B,fluoxetine,fluoxetine,SSRI,20,No,6,6,16,16,standard rehabilitation care
+kimjs_2017_emotion,A,placebo,placebo,placebo,,NA,12,12,237,195,standard care; dose-escalation mirrored
+kimjs_2017_emotion,B,escitalopram,escitalopram,SSRI,"5→10",Yes,12,12,241,210,起始5mg第2周10mg；第13周隔日10mg停药
+robinson_2000,A,nortriptyline,nortriptyline,TCA,25–100,Yes,12,12,,,"抑郁/非抑郁均有；主分析仅用抑郁队列（各结局行给n）"
+robinson_2000,B,fluoxetine,fluoxetine,SSRI,10–40,Yes,12,12,,,"同上"
+robinson_2000,C,placebo,placebo,placebo,,NA,12,12,,,"同上"
+kimura_2000,A,nortriptyline,nortriptyline,TCA,50–100,Yes,12,12,21,17,两中心合并按剂量等效时间点
+kimura_2000,B,placebo,placebo,placebo,,NA,12,12,26,25,同上
+liji_2017,A,placebo,placebo,placebo,,NA,24,24,62,62,standard care across arms
+liji_2017,B,escitalopram,escitalopram,SSRI,10,No,24,24,64,64,standard care across arms
+chenxiaodong_2020,A,placebo,placebo,placebo,,NA,12,12,42,42,standard care across arms
+chenxiaodong_2020,B,escitalopram,escitalopram,SSRI,10,No,12,12,42,42,standard care across arms
+zhangjuan_2020,A,placebo,placebo,placebo,,NA,12,12,43,43,standard care across arms
+zhangjuan_2020,B,escitalopram,escitalopram,SSRI,10,No,12,12,44,44,standard care across arms
+xuanxuejun_2019,A,standard_care,standard_care,standard_care,,NA,6,6,33,33,常规卒中治疗
+xuanxuejun_2019,B,fluvoxamine,fluvoxamine,SSRI,50–100,Yes,6,6,32,32,在常规基础上加用
+lvxinli_2015,A,standard_care,standard_care,standard_care,,NA,8,8,43,43,常规+心理疏导
+lvxinli_2015,B,fluoxetine,fluoxetine,SSRI,20,No,8,8,44,44,常规基础加用
+fengyuhua_2016,A,paroxetine,paroxetine,SSRI,10→20,Yes,8,8,57,57,晨起口服；第3周起20mg/d
+fengyuhua_2016,B,sertraline,sertraline,SSRI,50→100,Yes,8,8,58,58,晨起口服；第3周起100mg/d
+shiyaomei_2016,A,paroxetine,paroxetine,SSRI,10→40,Yes,8,8,52,52,晨起口服；最大≤40mg/d
+shiyaomei_2016,B,sertraline,sertraline,SSRI,50→200,Yes,8,8,53,53,晨起口服；最大≤200mg/d
+shanruoying_2014,A,paroxetine,paroxetine,SSRI,10→40,Yes,8,8,52,52,逐周加量
+shanruoying_2014,B,sertraline,sertraline,SSRI,50→200,Yes,8,8,53,53,逐周加量
+gaoguoxiang_2014,A,standard_care,standard_care,standard_care,,NA,8,8,75,75,卒中单元常规治疗
+gaoguoxiang_2014,B,sertraline,sertraline,SSRI,50,No,8,8,75,75,入院7天后起始
+lixue_2010,A,standard_care,standard_care,standard_care,,NA,24,24,62,62,常规药物+心理治疗
+lixue_2010,B,paroxetine,paroxetine,SSRI,20,No,24,24,68,68,常规基础加用
+liwenqian_2006,A,standard_care,standard_care,standard_care,,NA,12,12,52,49,常规治疗
+liwenqian_2006,B,citalopram,citalopram,SSRI,20,No,12,12,53,50,常规基础加用
+cravello_2009,A,venlafaxine,venlafaxine,SNRI,75–150,Yes,8,8,25,25,SR剂型；剂量按反应上调
+cravello_2009,B,fluoxetine,fluoxetine,SSRI,20–40,Yes,8,8,25,25,剂量按反应上调
+yanhu_2024,A,escitalopram,escitalopram,SSRI,10–20,Yes,8,8,30,30,standard care background
+yanhu_2024,B,sertraline,sertraline,SSRI,50–200,Yes,8,8,30,30,standard care background
+song_2006_p300,A,standard_care,standard_care,standard_care,,NA,6,6,41,41,常规
+song_2006_p300,B,fluoxetine,fluoxetine,SSRI,20,No,6,6,41,41,常规基础加用
+meijing_2017,A,paroxetine,paroxetine,SSRI,20,No,6,6,44,44,常规基础加用
+meijing_2017,B,standard_care,standard_care,standard_care,,NA,6,6,44,44,常规治疗
+liuling_2022,A,venlafaxine,venlafaxine,SNRI,75–150,Yes,12,12,35,35,常规治疗基础加用文拉法辛缓释片
+liuling_2022,B,trazodone,trazodone,SARI,50–400,Yes,12,12,35,35,常规治疗基础加用曲唑酮
+huhuiting_2018,A,escitalopram,escitalopram,SSRI,10,No,12,12,41,41,常规治疗基础加用
+huhuiting_2018,B,placebo,placebo,placebo,,NA,12,12,41,41,常规治疗基础加用安慰剂
+liji_2016,A,escitalopram,escitalopram,SSRI,10,No,24,24,60,60,常规/康复基础加用
+liji_2016,B,shugan_jieyu,shugan_jieyu,TCM,"2 cap bid",NA,24,24,60,60,疏肝解郁胶囊2粒 bid，常规/康复基础加用
+lixiaoying_2016,A,escitalopram,escitalopram,SSRI,"5→10",Yes,24,24,58,58,发病即起始，1周后至10 mg/d，合并常规康复
+lixiaoying_2016,B,standard_care,standard_care,standard_care,,NA,24,24,58,58,常规诊治指南+康复，不用抗抑郁药
+zhanglijun_2020,A,placebo,placebo,placebo,,NA,6,6,75,75,standard care across arms
+zhanglijun_2020,B,escitalopram,escitalopram,SSRI,10,No,6,6,75,75,standard care across arms
