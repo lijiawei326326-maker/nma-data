@@ -1,0 +1,26 @@
+study_id,d1_randomization,d2_deviations,d3_missing_data,d4_measurement,d5_reporting,overall
+linlinan_2024,Some concerns,Some concerns,Low,Some concerns,Low,High
+wiart_2000,Low,Low,Low,Low,Low,Low
+kimjs_2017_emotion,Low,Low,Some concerns,Low,Low,Some concerns
+robinson_2000,Some concerns,Low,Low,Low,Low,Some concerns
+kimura_2000,Some concerns,Low,Low,Low,Low,Some concerns
+liji_2017,High,Some concerns,Low,Low,Low,High
+chenxiaodong_2020,Some concerns,Some concerns,Low,Some concerns,Low,High
+zhangjuan_2020,Some concerns,Some concerns,Low,Some concerns,Low,High
+xuanxuejun_2019,Some concerns,High,Low,Some concerns,Low,High
+lvxinli_2015,Some concerns,High,Low,Some concerns,Low,High
+fengyuhua_2016,Some concerns,Some concerns,Low,Some concerns,Low,High
+shiyaomei_2016,Some concerns,Some concerns,Low,Some concerns,Low,High
+shanruoying_2014,Some concerns,Some concerns,Low,Some concerns,Low,High
+gaoguoxiang_2014,Some concerns,High,Low,Some concerns,Low,High
+lixue_2010,Some concerns,High,Low,Some concerns,Low,High
+liwenqian_2006,Some concerns,High,Some concerns,Low,Low,High
+cravello_2009,Some concerns,Some concerns,Low,Some concerns,Low,High
+yanhu_2024,Low,Low,Low,Low,Low,Low
+song_2006_p300,Some concerns,High,Low,Some concerns,Low,High
+meijing_2017,Some concerns,High,Low,Some concerns,Low,High,"国内小样本RCT常见局限；盲法/依从性未述"
+liuling_2022,Some concerns,Some concerns,Low,Some concerns,Low,High,"随机数字表法；开放性较大；盲法未述"
+huhuiting_2018,Some concerns,Some concerns,Low,Some concerns,Low,High,"安慰剂对照但盲法细节未述"
+liji_2016,Some concerns,Some concerns,Low,Some concerns,Low,High,"学位论文；分配隐藏/盲法未述；主要结局完整"
+lixiaoying_2016,Some concerns,High,Low,Some concerns,Low,High,"开放标签；并用/依从性控制不详"
+zhanglijun_2020,Some concerns,High,Low,Some concerns,Low,High
